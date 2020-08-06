@@ -7,7 +7,7 @@
           <div class="sub header">Student in JavaScript/Node.js & Azure SWP</div>
         </h2>
         <h3 class="ui inverted header">Campo Grande, Brasil - 2020</h3>
-        <a class="tiny ui youtube button" type="button" href="https://www.youtube.com/user/l32759">
+        <a class="tiny ui youtube button" type="button" href="https://www.youtube.com/">
           <i class="youtube icon"></i>
           YouTube
         </a>
@@ -15,7 +15,7 @@
           <i class="linkedin icon"></i>
           LinkedIn
         </a>
-        <a v-if="false" class="tiny ui twitter button" type="button" href="">
+        <a class="tiny ui twitter button" type="button" href="https://twitter.com">
           <i class="twitter icon"></i>
           Twitter
         </a>
